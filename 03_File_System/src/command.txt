@@ -1,0 +1,1 @@
+add to a file src/000.txt content: hello world

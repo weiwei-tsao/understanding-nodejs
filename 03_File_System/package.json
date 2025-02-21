@@ -1,0 +1,13 @@
+{
+  "name": "03_file_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "tool": "node src/tool.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
